@@ -1,0 +1,30 @@
+# DRai v2 — Requirements
+
+# Backend
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# ML / DL
+tensorflow
+numpy
+Pillow
+scikit-learn
+
+# AI
+google-generativeai
+
+# PDF
+reportlab
+
+# Excel
+openpyxl
+
+# PDF reading (for OCR)
+pymupdf
+
+# Frontend
+streamlit
+requests
+plotly
